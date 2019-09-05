@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\sidang03121993\room\bin\Debug\netcoreapp2.1\room.deps.json
+C:\Users\Sidang\source\repos\sidang03121993\room\bin\Debug\netcoreapp2.1\room.runtimeconfig.json
+C:\Users\Sidang\source\repos\sidang03121993\room\bin\Debug\netcoreapp2.1\room.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\sidang03121993\room\bin\Debug\netcoreapp2.1\room.dll
+C:\Users\Sidang\source\repos\sidang03121993\room\bin\Debug\netcoreapp2.1\room.pdb
+C:\Users\Sidang\source\repos\sidang03121993\room\obj\Debug\netcoreapp2.1\room.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\sidang03121993\room\obj\Debug\netcoreapp2.1\room.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\room\obj\Debug\netcoreapp2.1\room.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\room\obj\Debug\netcoreapp2.1\room.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\sidang03121993\room\obj\Debug\netcoreapp2.1\room.dll
+C:\Users\Sidang\source\repos\sidang03121993\room\obj\Debug\netcoreapp2.1\room.pdb

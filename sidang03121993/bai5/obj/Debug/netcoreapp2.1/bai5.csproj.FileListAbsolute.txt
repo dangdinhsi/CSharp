@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\sidang03121993\bai5\obj\Debug\netcoreapp2.1\bai5.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\sidang03121993\bai5\obj\Debug\netcoreapp2.1\bai5.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\bai5\obj\Debug\netcoreapp2.1\bai5.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\bai5\obj\Debug\netcoreapp2.1\bai5.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\sidang03121993\bai5\bin\Debug\netcoreapp2.1\bai5.deps.json
+C:\Users\Sidang\source\repos\sidang03121993\bai5\bin\Debug\netcoreapp2.1\bai5.runtimeconfig.json
+C:\Users\Sidang\source\repos\sidang03121993\bai5\bin\Debug\netcoreapp2.1\bai5.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\sidang03121993\bai5\bin\Debug\netcoreapp2.1\bai5.dll
+C:\Users\Sidang\source\repos\sidang03121993\bai5\bin\Debug\netcoreapp2.1\bai5.pdb
+C:\Users\Sidang\source\repos\sidang03121993\bai5\obj\Debug\netcoreapp2.1\bai5.dll
+C:\Users\Sidang\source\repos\sidang03121993\bai5\obj\Debug\netcoreapp2.1\bai5.pdb

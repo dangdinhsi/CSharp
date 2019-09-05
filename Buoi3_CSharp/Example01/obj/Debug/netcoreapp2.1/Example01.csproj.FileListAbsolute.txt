@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\bin\Debug\netcoreapp2.1\Example01.deps.json
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\bin\Debug\netcoreapp2.1\Example01.runtimeconfig.json
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\bin\Debug\netcoreapp2.1\Example01.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\bin\Debug\netcoreapp2.1\Example01.dll
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\bin\Debug\netcoreapp2.1\Example01.pdb
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\obj\Debug\netcoreapp2.1\Example01.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\obj\Debug\netcoreapp2.1\Example01.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\obj\Debug\netcoreapp2.1\Example01.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\obj\Debug\netcoreapp2.1\Example01.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\obj\Debug\netcoreapp2.1\Example01.dll
+C:\Users\Sidang\source\repos\Buoi3_CSharp\Example01\obj\Debug\netcoreapp2.1\Example01.pdb

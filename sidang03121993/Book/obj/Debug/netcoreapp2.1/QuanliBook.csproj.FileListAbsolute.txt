@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\sidang03121993\Book\bin\Debug\netcoreapp2.1\QuanliBook.deps.json
+C:\Users\Sidang\source\repos\sidang03121993\Book\bin\Debug\netcoreapp2.1\QuanliBook.runtimeconfig.json
+C:\Users\Sidang\source\repos\sidang03121993\Book\bin\Debug\netcoreapp2.1\QuanliBook.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\sidang03121993\Book\bin\Debug\netcoreapp2.1\QuanliBook.dll
+C:\Users\Sidang\source\repos\sidang03121993\Book\bin\Debug\netcoreapp2.1\QuanliBook.pdb
+C:\Users\Sidang\source\repos\sidang03121993\Book\obj\Debug\netcoreapp2.1\QuanliBook.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\Book\obj\Debug\netcoreapp2.1\QuanliBook.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\Book\obj\Debug\netcoreapp2.1\QuanliBook.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\sidang03121993\Book\obj\Debug\netcoreapp2.1\QuanliBook.dll
+C:\Users\Sidang\source\repos\sidang03121993\Book\obj\Debug\netcoreapp2.1\QuanliBook.pdb
+C:\Users\Sidang\source\repos\sidang03121993\Book\obj\Debug\netcoreapp2.1\QuanliBook.csprojAssemblyReference.cache

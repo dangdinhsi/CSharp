@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\bin\Debug\netcoreapp2.1\ConsoleCSharpVSDB.deps.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\bin\Debug\netcoreapp2.1\ConsoleCSharpVSDB.runtimeconfig.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\bin\Debug\netcoreapp2.1\ConsoleCSharpVSDB.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\bin\Debug\netcoreapp2.1\ConsoleCSharpVSDB.dll
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\obj\Debug\netcoreapp2.1\ConsoleCSharpVSDB.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\obj\Debug\netcoreapp2.1\ConsoleCSharpVSDB.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\obj\Debug\netcoreapp2.1\ConsoleCSharpVSDB.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\obj\Debug\netcoreapp2.1\ConsoleCSharpVSDB.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\bin\Debug\netcoreapp2.1\ConsoleCSharpVSDB.pdb
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\obj\Debug\netcoreapp2.1\ConsoleCSharpVSDB.dll
+C:\Users\Sidang\source\repos\HocCSharpBasic\ConsoleCSharpVSDB\obj\Debug\netcoreapp2.1\ConsoleCSharpVSDB.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\bin\Debug\netcoreapp2.1\Baitap1.deps.json
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\bin\Debug\netcoreapp2.1\Baitap1.runtimeconfig.json
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\bin\Debug\netcoreapp2.1\Baitap1.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\bin\Debug\netcoreapp2.1\Baitap1.dll
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\bin\Debug\netcoreapp2.1\Baitap1.pdb
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\obj\Debug\netcoreapp2.1\Baitap1.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\obj\Debug\netcoreapp2.1\Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\obj\Debug\netcoreapp2.1\Baitap1.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\obj\Debug\netcoreapp2.1\Baitap1.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\obj\Debug\netcoreapp2.1\Baitap1.dll
+C:\Users\Sidang\source\repos\sidang03121993\ConsoleApp1\obj\Debug\netcoreapp2.1\Baitap1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\bin\Debug\netcoreapp2.1\JsonInCSharp.deps.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\bin\Debug\netcoreapp2.1\JsonInCSharp.runtimeconfig.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\bin\Debug\netcoreapp2.1\JsonInCSharp.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\bin\Debug\netcoreapp2.1\JsonInCSharp.dll
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\bin\Debug\netcoreapp2.1\JsonInCSharp.pdb
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\obj\Debug\netcoreapp2.1\JsonInCSharp.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\obj\Debug\netcoreapp2.1\JsonInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\obj\Debug\netcoreapp2.1\JsonInCSharp.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\obj\Debug\netcoreapp2.1\JsonInCSharp.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\obj\Debug\netcoreapp2.1\JsonInCSharp.dll
+C:\Users\Sidang\source\repos\HocCSharpBasic\JsonInCSharp\obj\Debug\netcoreapp2.1\JsonInCSharp.pdb

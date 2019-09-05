@@ -1,0 +1,10 @@
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\bin\Debug\netcoreapp2.1\Bai2.deps.json
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\bin\Debug\netcoreapp2.1\Bai2.runtimeconfig.json
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\bin\Debug\netcoreapp2.1\Bai2.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\bin\Debug\netcoreapp2.1\Bai2.dll
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\bin\Debug\netcoreapp2.1\Bai2.pdb
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\obj\Debug\netcoreapp2.1\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\obj\Debug\netcoreapp2.1\Bai2.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\obj\Debug\netcoreapp2.1\Bai2.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\obj\Debug\netcoreapp2.1\Bai2.dll
+C:\Users\Sidang\source\repos\sidang03121993\Bai2\obj\Debug\netcoreapp2.1\Bai2.pdb

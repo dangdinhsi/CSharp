@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\bin\Debug\netcoreapp2.1\BT565.deps.json
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\bin\Debug\netcoreapp2.1\BT565.runtimeconfig.json
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\bin\Debug\netcoreapp2.1\BT565.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\bin\Debug\netcoreapp2.1\BT565.dll
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\obj\Debug\netcoreapp2.1\BT565.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\obj\Debug\netcoreapp2.1\BT565.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\obj\Debug\netcoreapp2.1\BT565.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\obj\Debug\netcoreapp2.1\BT565.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\bin\Debug\netcoreapp2.1\BT565.pdb
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\obj\Debug\netcoreapp2.1\BT565.dll
+C:\Users\Sidang\source\repos\HomeWork_CSharp_T1811E\BT565\obj\Debug\netcoreapp2.1\BT565.pdb

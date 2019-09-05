@@ -1,0 +1,11 @@
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\bin\Debug\netcoreapp2.1\ThaoTacVoiFile.deps.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\bin\Debug\netcoreapp2.1\ThaoTacVoiFile.runtimeconfig.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\bin\Debug\netcoreapp2.1\ThaoTacVoiFile.runtimeconfig.dev.json
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\bin\Debug\netcoreapp2.1\ThaoTacVoiFile.dll
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\bin\Debug\netcoreapp2.1\ThaoTacVoiFile.pdb
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\obj\Debug\netcoreapp2.1\ThaoTacVoiFile.csprojAssemblyReference.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\obj\Debug\netcoreapp2.1\ThaoTacVoiFile.csproj.CoreCompileInputs.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\obj\Debug\netcoreapp2.1\ThaoTacVoiFile.AssemblyInfoInputs.cache
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\obj\Debug\netcoreapp2.1\ThaoTacVoiFile.AssemblyInfo.cs
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\obj\Debug\netcoreapp2.1\ThaoTacVoiFile.dll
+C:\Users\Sidang\source\repos\HocCSharpBasic\ThaoTacVoiFile\obj\Debug\netcoreapp2.1\ThaoTacVoiFile.pdb
